@@ -1,3 +1,2 @@
-# EPAM-study
+# Igor Mehal
 
-> my new study repo
